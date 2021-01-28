@@ -1,0 +1,66 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    
+}
+
+header{
+    background-color: #fffbf0;
+    width: 100%;
+    height: 900px;
+   
+}
+
+header img{
+    width: 30%;
+}
+
+.heading-line h1{
+ font-size: 60px;
+ font-weight:bolder;
+ color: rgb(248, 178, 48);
+}
+.heading-line h2{
+    font-size: 60px;
+    font-weight:bolder;
+    color: rgb(14, 19, 88);
+   }
+
+main h2{
+    font-size: 40px;
+    font-weight:bolder;
+    color: rgb(14, 19, 88);
+}
+.heading-line p{
+    font-size: 18px;
+    font-weight: 700;
+}
+
+.model img{
+    width: 100%;
+}
+
+.btn{
+    color: white;
+    font-weight: 700;
+    padding: 10px 20px;
+    margin-top: 20px;
+}
+ /* end-header  */
+
+
+ .dress-card{
+     border: 0;
+ }
+.dress-photo img{
+ width: 95%;
+ background-color: rgb(241, 241, 241);
+ border-radius: 30px;
+ padding: 20px;
+ margin: 10px;
+}
+
+.dress-footer{
+    background-color: white;
+    border: 0;
+}
+
