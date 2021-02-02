@@ -91,3 +91,16 @@ main h2{
     height: 100;
     margin-left: 100px;
   }
+/*end, end section */
+
+  .stay-touch{
+    height: 300px; 
+    
+    background-color: #fffbf0;
+    
+  }
+
+  .stay-touch h2{
+    font-weight:bolder;
+    color: rgb(14, 19, 88);
+  }
