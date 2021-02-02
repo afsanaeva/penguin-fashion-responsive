@@ -93,6 +93,7 @@ main h2{
   }
 /*end of end section */
 
+/* start slide */
 .penguin-slide{
     
     background-color: #fffbf0 ;
@@ -103,7 +104,7 @@ main h2{
     font-weight:bolder;
     color: rgb(14, 19, 88);
 }
-
+/* end slide */
 
 /* start footer */
 
