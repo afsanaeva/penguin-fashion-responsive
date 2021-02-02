@@ -42,15 +42,22 @@ main h2{
 .btn{
     color: white;
     font-weight: 700;
-    padding: 10px 20px;
-    margin-top: 20px;
+    margin:  5px 5px 10px 0;
+    
 }
  /* end-header  */
 
 
 
  /* start dress card */
-.dress-photo img{
+
+.shopping-card{
+    margin-right: 50px;
+    padding-right: 30px;
+}
+
+
+ .dress-photo img{
  width: 100%;
  height: 45% ;
  background-color: rgb(241, 241, 241);
@@ -66,3 +73,21 @@ main h2{
 }
 
 
+/*star end section */
+
+.end-part h2{
+    font-weight:bolder;
+    color: rgb(14, 19, 88);
+}
+
+
+.end-cart img{
+    width: 70%;
+    margin-right: 10px;
+}
+
+.shop-image img{
+    width: 100%;
+    height: 100;
+    margin-left: 100px;
+  }
