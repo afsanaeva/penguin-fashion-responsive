@@ -89,9 +89,23 @@ main h2{
 .shop-image img{
     width: 100%;
     height: 100;
-    margin-left: 100px;
+    margin-left: 40px;
   }
-/*end, end section */
+/*end of end section */
+
+.penguin-slide{
+    
+    background-color: #fffbf0 ;
+    border-radius: 1em;
+}
+
+.penguin-slide h1{
+    font-weight:bolder;
+    color: rgb(14, 19, 88);
+}
+
+
+/* start footer */
 
   .stay-touch{
     height: 300px; 
@@ -104,3 +118,4 @@ main h2{
     font-weight:bolder;
     color: rgb(14, 19, 88);
   }
+  /* end footer */
